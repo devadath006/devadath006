@@ -2,7 +2,7 @@
 <h3 align="center">BCA Student | MERN Stack Developer | Robotics Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Java+%7C+C+%7C+C%2B%2B+Programmer;Python+Developer;Robotics+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Java+%7C+C+%7C+C%2B%2B+Programmer;Python+Developer;Robotics+Enthusiast;UI%2FUX+Designer"/>
 </p>
 
 ---
@@ -14,7 +14,6 @@
 * 🤖 Interested in **Robotics & Automation**
 * 🌱 Currently learning **MERN Stack & Python**
 * 🎨 Passionate about **UI/UX Design**
-* 🚀 Love building creative tech projects
 
 ---
 
@@ -23,11 +22,11 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/devadath-k-nair-84a466323">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Devadath%20K%20Nair-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://www.instagram.com/devadath_mridhagam">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-devadath__mridhagam-pink?style=for-the-badge&logo=instagram"/>
 </a>
 
 </p>
@@ -38,32 +37,32 @@
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,html"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java"/> **Java** <img src="https://skillicons.dev/icons?i=python"/> **Python** <img src="https://skillicons.dev/icons?i=c"/> **C** <img src="https://skillicons.dev/icons?i=cpp"/> **C++** <img src="https://skillicons.dev/icons?i=javascript"/> **JavaScript** <img src="https://skillicons.dev/icons?i=html"/> **HTML**
+
+---
 
 ### ⚡ MERN Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb"/> **MongoDB** <img src="https://skillicons.dev/icons?i=express"/> **Express.js** <img src="https://skillicons.dev/icons?i=react"/> **React** <img src="https://skillicons.dev/icons?i=nodejs"/> **Node.js**
 
-### 🤖 Robotics & Hardware
-
-* Robotics
-* Automation
-* Embedded Systems
+---
 
 ### 🛠 Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,figma"/>
-</p>
+<img src="https://skillicons.dev/icons?i=linux"/> **Linux** <img src="https://skillicons.dev/icons?i=figma"/> **Figma**
 
-* Canva
-* Oracle Database
-* Data Structures
-* UI/UX Design
+**Canva**
+**Oracle Database**
+**Data Structures**
+**UI/UX Design**
+
+---
+
+### 🤖 Robotics
+
+**Robotics**
+**Automation**
+**Embedded Systems**
 
 ---
 
@@ -93,7 +92,7 @@
 
 # ⚡ Fun Fact
 
-💡 *"Code, Design, Build, Innovate."*
+💡 *“Code. Design. Build. Repeat.”*
 
 ---
 
