@@ -33,47 +33,63 @@
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java"/> **Java** <img src="https://skillicons.dev/icons?i=c"/> **C** <img src="https://skillicons.dev/icons?i=cpp"/> **C++** <img src="https://skillicons.dev/icons?i=python"/> **Python** <img src="https://skillicons.dev/icons?i=javascript"/> **JavaScript** <img src="https://skillicons.dev/icons?i=html"/> **HTML**
+<p>
+<img src="https://skillicons.dev/icons?i=python"/> Python
+<img src="https://skillicons.dev/icons?i=java"/> Java
+<img src="https://skillicons.dev/icons?i=c"/> C
+<img src="https://skillicons.dev/icons?i=cpp"/> C++
+</p>
 
----
+### Web Development
 
-### 📚 Core Concepts
+<p>
+<img src="https://skillicons.dev/icons?i=html"/> HTML
+<img src="https://skillicons.dev/icons?i=javascript"/> JavaScript
+<img src="https://skillicons.dev/icons?i=nodejs"/> Node JS
+<img src="https://skillicons.dev/icons?i=react"/> React
+<img src="https://skillicons.dev/icons?i=express"/> Express
+<img src="https://skillicons.dev/icons?i=mongodb"/> Mongo DB
+</p>
 
-**Data Structures (C)**
-**DBMS**
-**Data Mining**
+### Databases
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb"/> Mongo DB
+<img src="https://img.icons8.com/color/48/oracle-logo.png"/> Oracle Database
+<img src="https://img.icons8.com/ios-filled/50/database.png"/> PL SQL
+</p>
 
-### 🗄 Databases
+### Core Subjects
 
-<img src="https://skillicons.dev/icons?i=mongodb"/> **MongoDB**
-**Oracle Database**
-**PL/SQL**
+<p>
+Data Structures in C  
+DBMS  
+Data Mining
+</p>
 
----
+### Design
 
-### ⚡ MERN Stack
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/> Figma
+<img src="https://img.icons8.com/color/48/canva.png"/> Canva
+UI UX Design
+</p>
 
-<img src="https://skillicons.dev/icons?i=mongodb"/> **MongoDB** <img src="https://skillicons.dev/icons?i=express"/> **Express.js** <img src="https://skillicons.dev/icons?i=react"/> **React** <img src="https://skillicons.dev/icons?i=nodejs"/> **Node.js**
+### Platforms
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=linux"/> Linux
+</p>
 
-### 🎨 Design
+### Other Skills
 
-<img src="https://skillicons.dev/icons?i=figma"/> **Figma**
-**Canva**
-**UI/UX Design**
-
----
-
-### 🛠 Platforms
-
-<img src="https://skillicons.dev/icons?i=linux"/> **Linux**
+<p>
+<img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-robot-robotics-flat-icons-inmotus-design.png"/> Robotics
+</p>
 
 ---
 
