@@ -37,7 +37,23 @@
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java"/> **Java** <img src="https://skillicons.dev/icons?i=python"/> **Python** <img src="https://skillicons.dev/icons?i=c"/> **C** <img src="https://skillicons.dev/icons?i=cpp"/> **C++** <img src="https://skillicons.dev/icons?i=javascript"/> **JavaScript** <img src="https://skillicons.dev/icons?i=html"/> **HTML**
+<img src="https://skillicons.dev/icons?i=java"/> **Java** <img src="https://skillicons.dev/icons?i=c"/> **C** <img src="https://skillicons.dev/icons?i=cpp"/> **C++** <img src="https://skillicons.dev/icons?i=python"/> **Python** <img src="https://skillicons.dev/icons?i=javascript"/> **JavaScript** <img src="https://skillicons.dev/icons?i=html"/> **HTML**
+
+---
+
+### 📚 Core Concepts
+
+**Data Structures (C)**
+**DBMS**
+**Data Mining**
+
+---
+
+### 🗄 Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb"/> **MongoDB**
+**Oracle Database**
+**PL/SQL**
 
 ---
 
@@ -47,22 +63,17 @@
 
 ---
 
-### 🛠 Tools & Technologies
+### 🎨 Design
 
-<img src="https://skillicons.dev/icons?i=linux"/> **Linux** <img src="https://skillicons.dev/icons?i=figma"/> **Figma**
-
+<img src="https://skillicons.dev/icons?i=figma"/> **Figma**
 **Canva**
-**Oracle Database**
-**Data Structures**
 **UI/UX Design**
 
 ---
 
-### 🤖 Robotics
+### 🛠 Platforms
 
-**Robotics**
-**Automation**
-**Embedded Systems**
+<img src="https://skillicons.dev/icons?i=linux"/> **Linux**
 
 ---
 
@@ -78,9 +89,9 @@
 
 ---
 
-# 📈 Activity Graph
+# 💬 Random Dev Quote
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devadath006&theme=tokyo-night"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 ---
 
@@ -92,7 +103,7 @@
 
 # ⚡ Fun Fact
 
-💡 *“Code. Design. Build. Repeat.”*
+💡 *Code. Design. Build. Repeat.*
 
 ---
 
