@@ -52,23 +52,25 @@
 <img src="https://skillicons.dev/icons?i=nodejs"/> Node JS
 <img src="https://skillicons.dev/icons?i=react"/> React
 <img src="https://skillicons.dev/icons?i=express"/> Express
-<img src="https://skillicons.dev/icons?i=mongodb"/> Mongo DB
+<img src="https://skillicons.dev/icons?i=mongodb"/> MongoDB
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb"/> Mongo DB
+<img src="https://skillicons.dev/icons?i=mongodb"/> MongoDB
 <img src="https://img.icons8.com/color/48/oracle-logo.png"/> Oracle Database
-<img src="https://img.icons8.com/ios-filled/50/database.png"/> PL SQL
+<img src="https://img.icons8.com/ios-filled/50/database.png"/> PL/SQL
 </p>
 
 ### Core Subjects
 
 <p>
-Data Structures in C  
-DBMS  
-Data Mining
+
+<img src="https://img.shields.io/badge/Data%20Structures%20(C)-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Mining-purple?style=for-the-badge"/>
+
 </p>
 
 ### Design
@@ -76,7 +78,7 @@ Data Mining
 <p>
 <img src="https://skillicons.dev/icons?i=figma"/> Figma
 <img src="https://img.icons8.com/color/48/canva.png"/> Canva
-UI UX Design
+UI/UX Design
 </p>
 
 ### Platforms
@@ -88,7 +90,11 @@ UI UX Design
 ### Other Skills
 
 <p>
-<img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-robot-robotics-flat-icons-inmotus-design.png"/> Robotics
+
+<img src="https://img.shields.io/badge/Robotics-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-blueviolet?style=for-the-badge"/>
+
 </p>
 
 ---
