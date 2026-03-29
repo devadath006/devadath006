@@ -15,13 +15,11 @@
 <h3 align="center">🎮 Developer Level System</h3>
 
 <p align="center">
-🧠 Level: <b>12</b>  
-⚡ XP: <b>780 / 1000</b>
+🧠 Level: <b>15</b>  
+⚡ XP: <b>920 / 1000</b>
 </p>
 
-<p align="center">
-<img src="https://progress-bar.dev/78/?scale=100&title=XP&width=500&color=00ff00"/>
-</p>
+
 
 ---
 
@@ -122,7 +120,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb"/> MongoDB
-<img src="https://cdn.simpleicons.org/oracle/00FF00" height="50"/> Oracle
+ Oracle
 <img src="https://skillicons.dev/icons?i=mysql"/> SQL / PL SQL
 </p>
 
