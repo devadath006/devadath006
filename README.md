@@ -1,13 +1,13 @@
 <!-- 🌧 MATRIX HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001f1f&height=180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f1f&height=180&section=header&text=DEVADATH%20K%20NAIR&fontColor=00FF00&fontSize=30&animation=fadeIn"/>
 </p>
 
-<!-- 🔥 GLITCH NAME -->
+<!-- 🔥 GLITCH STYLE ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=DEVADATH+K+NAIR;SYSTEM+ONLINE;INITIALIZING...;WELCOME+TO+MY+PROFILE"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;WELCOME+DEVADATH;LOADING+PORTFOLIO...;INITIALIZING+AI+MODULE"/>
 </p>
 
 <!-- 🎮 XP SYSTEM -->
@@ -15,14 +15,17 @@
 <h3 align="center">🎮 Developer Level System</h3>
 
 <p align="center">
-🧠 Level: <b>15</b>  
-⚡ XP: <b>920 / 1000</b>
+🧠 Level: <b>12</b>  
+⚡ XP: <b>780 / 1000</b>
 </p>
 
+<p align="center">
+<img src="https://progress-bar.dev/78/?scale=100&title=XP&width=500&color=00ff00"/>
+</p>
 
 ---
 
-<!-- 🤖 MAIN AI TECH GIF -->
+<!-- 🤖 MAIN AI GIF -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
@@ -55,6 +58,20 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 📚 Core Subjects
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Database%20Management%20Systems-000000?style=for-the-badge&logo=databricks&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/Data%20Mining-000000?style=for-the-badge&logo=apache&logoColor=00FF00"/>
+<img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF00"/>
+
 </p>
 
 ---
@@ -111,7 +128,7 @@
 
 ---
 
-<!-- ⚙️ DEV ANIMATION -->
+<!-- ⚙️ DEV GIF -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400"/>
