@@ -120,7 +120,7 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb"/> MongoDB
-<img src="https://skillicons.dev/icons?i=mysql"/> SQL Oracle
+<img src="https://skillicons.dev/icons?i=mysql"/>Oracle
 <img src="https://skillicons.dev/icons?i=mysql"/> SQL / PL SQL
 </p>
 
