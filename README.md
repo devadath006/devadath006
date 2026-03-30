@@ -138,7 +138,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devadath006&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devadath006&theme=chartreuse-dark&hide_border=true"/>
 
