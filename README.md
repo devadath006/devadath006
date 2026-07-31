@@ -1,171 +1,278 @@
-<!-- 🌧 MATRIX HEADER -->
+# 🌌 DEVADATH K NAIR — CYBER NEXUS README
+
+````markdown
+<!-- ================================================= -->
+<!-- 🌌 CYBER NEXUS HEADER -->
+<!-- ================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f1f&height=180&section=header&text=DEVADATH%20K%20NAIR&fontColor=00FF00&fontSize=30&animation=fadeIn"/>
-</p>
-
-<!-- 🔥 GLITCH STYLE ANIMATION -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;WELCOME+DEVADATH;LOADING+PORTFOLIO...;INITIALIZING+AI+MODULE"/>
-</p>
-
-<!-- 🎮 XP SYSTEM -->
-
-<h3 align="center">🎮 Developer Level System</h3>
-
-<p align="center">
-🧠 Level: <b>12</b>  
-⚡ XP: <b>780 / 1000</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,50:001a1a,100:00ff99&height=230&section=header&text=DEVADATH%20K%20NAIR&fontColor=00ff99&fontSize=44&fontAlignY=38&animation=twinkling"/>
 </p>
 
 <p align="center">
-<img src="https://progress-bar.dev/78/?scale=100&title=XP&width=500&color=00ff00"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;🤖+AI+%26+Robotics+Enthusiast;⚡+Building+Modern+Web+Experiences;🧠+Problem+Solver+%7C+DSA+Learner;🎨+Crafting+Clean+UI%2FUX+Interfaces"/>
 </p>
 
 ---
 
-<!-- 🤖 MAIN AI GIF -->
+## 🧠 SYSTEM PROFILE
+
+```yaml
+name: Devadath K Nair
+role: Full Stack Developer
+education: BCA (Hons)
+location: Kerala, India
+focus:
+  - MERN Stack
+  - Angular & TypeScript
+  - FastAPI & Python
+  - AI / ML Exploration
+  - UI / UX Design
+  - Robotics & IoT
+````
+
+---
+
+## ⚡ LIVE STATUS
 
 <p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+
+| 🟢 Status | 💻 Current Focus                  | 🚀 Learning     |
+| --------- | --------------------------------- | --------------- |
+| Online    | MERN + Angular + FastAPI Projects | AI / ML + Cloud |
+
 </p>
 
-<!-- 👀 Visitor Counter -->
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=devadath006&label=VISITORS&color=00FF00&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=devadath006&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/devadath006?label=FOLLOWERS&style=for-the-badge&color=00ff99&labelColor=000000"/>
 </p>
 
 ---
 
-## 🌌 About Me
-
-<p align="center">
-
-👋 Hi, I'm <b style="color:#00FF00;">Devadath K Nair</b>
-🎓 BCA Student
-💻 Full Stack Developer
-🤖 Robotics Enthusiast
-🧠 AI / ML Explorer
-🎨 UI/UX Designer
-
-</p>
-
----
-
-<!-- 💻 CODING GIF -->
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
-
----
-
-## 📚 Core Subjects
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Database%20Management%20Systems-000000?style=for-the-badge&logo=databricks&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/Data%20Mining-000000?style=for-the-badge&logo=apache&logoColor=00FF00"/>
-<img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF00"/>
-
-</p>
-
----
-
-## 🎮 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/devadath006">
-<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
-</a>
-
-<a href="https://www.linkedin.com/in/devadath-k-nair-84a466323">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
-</a>
-
-<a href="https://www.instagram.com/devadath_mridhagam">
-<img src="https://img.shields.io/badge/Instagram-Follow-000000?style=for-the-badge&logo=instagram&logoColor=00FF00"/>
-</a>
-
-</p>
-
----
-
-## 💻 Tech Stack
+## 🛠 TECH ARSENAL
 
 ### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python"/> Python
-<img src="https://skillicons.dev/icons?i=java"/> Java
-<img src="https://skillicons.dev/icons?i=c"/> C
-<img src="https://skillicons.dev/icons?i=cpp"/> C++
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
 </p>
 
-### 🌐 Web & MERN
+### 🌐 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html"/> HTML
-<img src="https://skillicons.dev/icons?i=javascript"/> JavaScript
-<img src="https://skillicons.dev/icons?i=nodejs"/> Node JS
-<img src="https://skillicons.dev/icons?i=express"/> Express
-<img src="https://skillicons.dev/icons?i=react"/> React
-<img src="https://skillicons.dev/icons?i=mongodb"/> MongoDB
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind"/>
+</p>
+
+### ⚙ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
 ### 🗄 Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb"/> MongoDB
-<img src="https://cdn.simpleicons.org/oracle/00FF00" height="50"/> Oracle
-<img src="https://skillicons.dev/icons?i=mysql"/> SQL / PL SQL
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+  <img src="https://cdn.simpleicons.org/oracle/00FF99" height="48"/>
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,linux,vscode,postman"/>
 </p>
 
 ---
 
-<!-- ⚙️ DEV GIF -->
+## 🚀 FEATURED PROJECTS
+
+### 🔍 Log Monitoring System
+
+```txt
+Filebeat → Kafka → FastAPI → Elasticsearch → Kibana → Angular Dashboard
+```
+
+**Highlights**
+
+* 📊 Real-time log monitoring
+* 🚨 Error & warning detection
+* 📈 Dashboard analytics
+* 🔄 Auto-refresh monitoring
+* 🐳 Docker container health tracking
+
+---
+
+### 🏛 IEI Student Chapter Website
+
+**Stack:** React • Tailwind CSS • Supabase
+
+**Modules**
+
+* 🏠 Home & About
+* 👥 Executive Committee & Members
+* 📅 Technical Events & Workshops
+* 📰 Notices & Announcements
+* 🏆 Competitions & Achievements
+* 📞 Contact & Registration Portal
+
+**Highlights**
+
+* ⚡ Modern responsive UI
+* 📱 Mobile-friendly design
+* 🗂 Dynamic event management
+* ☁ Cloud-hosted deployment
+
+---
+
+### 🛍 Khyathi Weaves — Handloom Saree Platform
+
+**Stack:** React • Node.js • Express • MongoDB / Supabase
+
+**Features**
+
+* 🧵 Handloom saree catalog
+* 🛒 Online order management
+* 📦 Stock & inventory tracking
+* 💳 Order summary generation
+* 📈 Sales & customer analytics
+
+**Highlights**
+
+* 🌸 Traditional Kerala handloom focus
+* 📱 Responsive e-commerce interface
+* ⚡ Fast product browsing experience
+* 📊 Business growth & order management support
+
+---
+
+## 📚 CORE INTERESTS
 
 <p align="center">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400"/>
+  <img src="https://img.shields.io/badge/Data_Structures-000000?style=for-the-badge&logo=c&logoColor=00FF99"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-000000?style=for-the-badge&logo=linux&logoColor=00FF99"/>
+  <img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=databricks&logoColor=00FF99"/>
+  <img src="https://img.shields.io/badge/Data_Mining-000000?style=for-the-badge&logo=apache&logoColor=00FF99"/>
+  <img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=tensorflow&logoColor=00FF99"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devadath006&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devadath006&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99"/>
+</p>
+
+---
+
+## 📈 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadath006&theme=react-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE — DEVA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="DEVA Snake Animation"/>
+</p>
+
+Create this GitHub Action in **.github/workflows/deva-snake.yml**:
+
+```yaml
+name: Generate DEVA Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: devadath006
+          outputs: |
+            output/deva-snake.svg?palette=github-dark&color_snake=00ff99&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+
+      - name: Push snake
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+## 🎯 CURRENT MISSION
+
+```txt
+[███████████████░░░░░] 75%
+
+✓ React Portfolio
+✓ Angular Dashboard
+✓ FastAPI Monitoring Backend
+✓ Supabase Integration
+✓ IEI Web Platform
+✓ Khyathi Weaves Store
+⏳ AI-powered Dashboard
+⏳ Cloud Deployment Pipeline
+```
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/devadath006">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF99"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/devadath-k-nair-84a466323">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF99"/>
+  </a>
+
+  <a href="https://www.instagram.com/devadath_mridhagam">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF99"/>
+  </a>
+</p>
+
+---
+
+## 🎵 BEYOND CODING
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devadath006&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devadath006&theme=chartreuse-dark&hide_border=true"/>
+🥁 **Mridangam Artist** • 🎨 **Creative Designer** • 🤖 **Robotics Explorer** • 🌱 **Continuous Learner**
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 💬 DEVELOPER QUOTE
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devadath006&theme=chartreuse-dark"/>
+  <i>“Code is not just syntax — it is the art of turning ideas into experiences.”</i>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://github.com/devadath006/devadath006/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020202,50:001a1a,100:00ff99&height=120&section=footer"/>
 </p>
 
----
-
-<!-- 🌧 MATRIX FOOTER -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f1f&height=100&section=footer"/>
+  <b>⚡ Thanks for visiting my Cyber Nexus ⚡</b>
 </p>
+```
