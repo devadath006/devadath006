@@ -168,10 +168,12 @@
 
 ---
 
+
+
 ## 🐍 CONTRIBUTION SNAKE — DEVA
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="DEVA Snake Animation](https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg)"/>
+  <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="DEVA Snake Animation"/>
 </p>
 
 ---
