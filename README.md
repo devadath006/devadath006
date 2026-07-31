@@ -1,8 +1,7 @@
-# 🌌 DEVADATH K NAIR — CYBER NEXUS README
-
-````markdown
 <!-- ================================================= -->
+
 <!-- 🌌 CYBER NEXUS HEADER -->
+
 <!-- ================================================= -->
 
 <p align="center">
@@ -17,31 +16,26 @@
 
 ## 🧠 SYSTEM PROFILE
 
-```yaml
-name: Devadath K Nair
-role: Full Stack Developer
-education: BCA (Hons)
-location: Kerala, India
-focus:
-  - MERN Stack
-  - Angular & TypeScript
-  - FastAPI & Python
-  - AI / ML Exploration
-  - UI / UX Design
-  - Robotics & IoT
-````
+* 🚀 **Role:** Full Stack Developer
+* 🎓 **Education:** BCA (Hons)
+* 📍 **Location:** Kerala, India
+
+### 🎯 Focus Areas
+
+* MERN Stack
+* Angular & TypeScript
+* FastAPI & Python
+* AI / ML Exploration
+* UI / UX Design
+* Robotics & IoT
 
 ---
 
 ## ⚡ LIVE STATUS
 
-<p align="center">
-
-| 🟢 Status | 💻 Current Focus                  | 🚀 Learning     |
+| Status    | Current Focus                     | Learning        |
 | --------- | --------------------------------- | --------------- |
-| Online    | MERN + Angular + FastAPI Projects | AI / ML + Cloud |
-
-</p>
+| 🟢 Online | MERN + Angular + FastAPI Projects | AI / ML + Cloud |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devadath006&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
@@ -89,9 +83,7 @@ focus:
 
 ### 🔍 Log Monitoring System
 
-```txt
-Filebeat → Kafka → FastAPI → Elasticsearch → Kibana → Angular Dashboard
-```
+**Tech:** Filebeat • Kafka • FastAPI • Elasticsearch • Kibana • Angular
 
 **Highlights**
 
@@ -105,9 +97,9 @@ Filebeat → Kafka → FastAPI → Elasticsearch → Kibana → Angular Dashboar
 
 ### 🏛 IEI Student Chapter Website
 
-**Stack:** React • Tailwind CSS • Supabase
+**Tech:** React • Tailwind CSS • Supabase
 
-**Modules**
+**Features**
 
 * 🏠 Home & About
 * 👥 Executive Committee & Members
@@ -127,7 +119,7 @@ Filebeat → Kafka → FastAPI → Elasticsearch → Kibana → Angular Dashboar
 
 ### 🛍 Khyathi Weaves — Handloom Saree Platform
 
-**Stack:** React • Node.js • Express • MongoDB / Supabase
+**Tech:** React • Node.js • Express • MongoDB / Supabase
 
 **Features**
 
@@ -182,53 +174,20 @@ Filebeat → Kafka → FastAPI → Elasticsearch → Kibana → Angular Dashboar
   <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="DEVA Snake Animation"/>
 </p>
 
-Create this GitHub Action in **.github/workflows/deva-snake.yml**:
-
-```yaml
-name: Generate DEVA Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: devadath006
-          outputs: |
-            output/deva-snake.svg?palette=github-dark&color_snake=00ff99&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
-
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 ---
 
 ## 🎯 CURRENT MISSION
 
-```txt
-[███████████████░░░░░] 75%
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ **75%**
 
-✓ React Portfolio
-✓ Angular Dashboard
-✓ FastAPI Monitoring Backend
-✓ Supabase Integration
-✓ IEI Web Platform
-✓ Khyathi Weaves Store
-⏳ AI-powered Dashboard
-⏳ Cloud Deployment Pipeline
-```
+* ✅ React Portfolio
+* ✅ Angular Dashboard
+* ✅ FastAPI Monitoring Backend
+* ✅ Supabase Integration
+* ✅ IEI Web Platform
+* ✅ Khyathi Weaves Store
+* ⏳ AI-powered Dashboard
+* ⏳ Cloud Deployment Pipeline
 
 ---
 
@@ -275,4 +234,3 @@ jobs:
 <p align="center">
   <b>⚡ Thanks for visiting my Cyber Nexus ⚡</b>
 </p>
-```
