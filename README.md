@@ -95,9 +95,9 @@
 
 ---
 
-### 🏛 IEI Student Chapter Website
+### 🏛 IEI Website
 
-**Tech:** React • Tailwind CSS • Supabase
+**Tech:** HTML • CSS • JS • Supabase
 
 **Features**
 
@@ -119,7 +119,7 @@
 
 ### 🛍 Khyathi Weaves — Handloom Saree Platform
 
-**Tech:** React • Node.js • Express • MongoDB / Supabase
+**Tech:** React • Express • Supabase
 
 **Features**
 
