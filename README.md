@@ -95,7 +95,7 @@
 
 ---
 
-### 🏛 IEI Website
+### 🏛 IEI Kochi Website
 
 **Tech:** HTML • CSS • JS • Supabase
 
