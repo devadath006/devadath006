@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="1814" viewBox="0 0 1040 1814">
+<rect x="0" y="0" width="1040" height="1814" rx="10" fill="#000000"/>
+<rect x="0" y="0" width="1040" height="44" rx="10" fill="#0d0d0d"/>
+<rect x="0" y="34" width="1040" height="10" fill="#0d0d0d"/>
+<circle cx="26" cy="22" r="7" fill="#FF3131"/>
+<circle cx="50" cy="22" r="7" fill="#FFD93D"/>
+<circle cx="74" cy="22" r="7" fill="#00FF41"/>
+<text x="520.0" y="27" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" text-anchor="middle">devadath@kerala: ~ — zsh</text>
+<text x="24" y="94" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ neofetch</text>
+<text x="24" y="134" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">        _____           devadath@kerala</text>
+<text x="24" y="154" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">       /     \          ───────────────</text>
+<text x="24" y="174" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">      | () () |         OS........... DevadathOS 5.0 (Full-Stack)</text>
+<text x="24" y="194" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">       \  ^  /          Host......... Kerala, India</text>
+<text x="24" y="214" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">        |||||           Shell........ zsh</text>
+<text x="24" y="234" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">                         Stack........ MERN . Angular . FastAPI</text>
+<text x="24" y="254" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">                         Learning..... AI/ML . Cloud Infra</text>
+<text x="24" y="274" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">                         Side_Proc.... Mridangam artist</text>
+<text x="24" y="314" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ cat about.txt</text>
+<text x="24" y="354" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; IDENTITY.......... Full Stack Developer</text>
+<text x="24" y="374" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; LOCATION.......... Kerala, India</text>
+<text x="24" y="394" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; EDUCATION......... BCA (Hons)</text>
+<text x="24" y="414" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; PROCESS[MAIN]..... compiling MERN + Angular + FastAPI projects</text>
+<text x="24" y="434" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; PROCESS[BG]....... learning AI/ML &amp; cloud infrastructure</text>
+<text x="24" y="454" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; SIDE_QUEST........ Mridangam artist (South Indian percussion)</text>
+<text x="24" y="494" fill="#FF3131" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[!] WARNING: subject shows signs of chronic debugging addiction</text>
+<text x="24" y="534" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ ls -la ~/skills/</text>
+<text x="24" y="574" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">languages/           frontend/       backend/       database/     tools/</text>
+<text x="24" y="594" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">──────────────────   ────────────    ───────────    ───────────   ──────────────────</text>
+<text x="24" y="614" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">Python                React           Node.js        MongoDB       Git / GitHub</text>
+<text x="24" y="634" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">Java                  Angular         Express        MySQL         Docker</text>
+<text x="24" y="654" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">C / C++               Tailwind        FastAPI        Oracle        Linux</text>
+<text x="24" y="674" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">JavaScript / TS       HTML / CSS                                   VS Code / Postman</text>
+<text x="24" y="714" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ echo $CURRENT_FOCUS</text>
+<text x="24" y="734" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; DSA . Operating Systems . DBMS . Data Mining . AI/ML</text>
+<text x="24" y="774" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ ls -la ~/projects/ --detailed</text>
+<text x="24" y="814" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">drwxr-xr-x  log-monitoring-system/</text>
+<text x="24" y="834" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            [Filebeat . Kafka . FastAPI . Elasticsearch . Kibana . Angular]</text>
+<text x="24" y="854" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            Real-time log ingestion &amp; analysis, live dashboards,</text>
+<text x="24" y="874" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            Docker container health checks.</text>
+<text x="24" y="914" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">drwxr-xr-x  iei-kochi-website/</text>
+<text x="24" y="934" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            [HTML . CSS . JS . Supabase]</text>
+<text x="24" y="954" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            Site for an engineering institution's chapter — members,</text>
+<text x="24" y="974" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            events, notices, registration.</text>
+<text x="24" y="1014" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">drwxr-xr-x  iic-portal/</text>
+<text x="24" y="1034" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            [React . Supabase]</text>
+<text x="24" y="1054" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            Institution's Innovation Council portal — activities,</text>
+<text x="24" y="1074" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            records, and reporting with a clean data layer.</text>
+<text x="24" y="1114" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">drwxr-xr-x  khyathi-weaves/</text>
+<text x="24" y="1134" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            [React . Express . Supabase]</text>
+<text x="24" y="1154" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            E-commerce platform for a Kerala handloom saree business —</text>
+<text x="24" y="1174" fill="#0AA82E" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">            catalog, orders, inventory, sales analytics.</text>
+<text x="24" y="1214" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ curl -s portfolio.devadath.dev</text>
+<text x="24" y="1234" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; 200 OK</text>
+<text x="24" y="1254" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; live at: https://portfolio-pink-two-v0it3zytcd.vercel.app/</text>
+<text x="24" y="1294" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ ./progress --status</text>
+<text x="24" y="1334" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[██████████████████░░░░░]  75%  COMPLETE</text>
+<text x="24" y="1374" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[x] react-portfolio</text>
+<text x="24" y="1394" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[x] angular-dashboard</text>
+<text x="24" y="1414" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[x] fastapi-monitoring-backend</text>
+<text x="24" y="1434" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[x] supabase-integration</text>
+<text x="24" y="1454" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[x] iei-web-platform</text>
+<text x="24" y="1474" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[x] iic-portal</text>
+<text x="24" y="1494" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[x] khyathi-weaves-store</text>
+<text x="24" y="1514" fill="#FF3131" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[ ] ai-powered-dashboard          [!] STATUS: IN_PROGRESS</text>
+<text x="24" y="1534" fill="#FF3131" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">[ ] cloud-deployment-pipeline     [!] STATUS: IN_PROGRESS</text>
+<text x="24" y="1574" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ cat contact.txt</text>
+<text x="24" y="1614" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; GitHub..... github.com/devadath006</text>
+<text x="24" y="1634" fill="#FF3131" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; LinkedIn... linkedin.com/in/devadath-k-nair-84a466323</text>
+<text x="24" y="1654" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; Instagram.. instagram.com/devadath_mridhagam</text>
+<text x="24" y="1674" fill="#FF3131" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; Portfolio.. portfolio-pink-two-v0it3zytcd.vercel.app</text>
+<text x="24" y="1714" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">&gt; "Code is not just syntax -- it is the art of turning ideas into experiences."</text>
+<text x="24" y="1754" fill="#00FF41" font-family="'Fira Code','Courier New',monospace" font-size="14" xml:space="preserve">root@devadath:~$ _</text>
+</svg>
