@@ -18,7 +18,7 @@
 
 * 🚀 **Role:** Full Stack Developer
 * 🎓 **Education:** BCA (Hons)
-* 📍 **Location:** Kerala, India
+* 📍 **Location:** Kochi,Kerala, India
 
 ### 🎯 Focus Areas
 
