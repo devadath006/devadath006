@@ -165,6 +165,34 @@ June 2026        🔧  Software Development Intern — SpeechLogix Technologies
 [![Contact](https://img.shields.io/badge/Contact_Me-10B981?style=for-the-badge&logo=maildotru&logoColor=white)](https://portfolio-pink-two-v0it3zytcd.vercel.app/#contact)
 
 <br/>
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devadath006&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF"/>
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=devadath006&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99"/>
+</p>
+
+---
+
+## 📈 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadath006&theme=react-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true"/>
+</p>
+
+---
+
+
+
+## 🐍 CONTRIBUTION SNAKE — DEVA
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="DEVA Snake Animation"/>
+</p>
+
+---
+
 
 ⭐ **Thanks for stopping by — let's build something great together!**
 
