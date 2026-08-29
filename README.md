@@ -165,42 +165,36 @@ June 2026        🔧  Software Development Intern — SpeechLogix Technologies
 [![Contact](https://img.shields.io/badge/Contact_Me-10B981?style=for-the-badge&logo=maildotru&logoColor=white)](https://portfolio-pink-two-v0it3zytcd.vercel.app/#contact)
 
 <br/>
-📊 GITHUB ANALYTICS
 
-<p align="center">  <!-- GitHub Stats --><img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=devadath006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF"
-alt="Devadath's GitHub Stats"
-/>
+### 📊 GitHub Analytics
 
-  <!-- GitHub Streak --><img
-width="49%"
-src="https://streak-stats.demolab.com/?user=devadath006&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=FFFFFF&dates=FFFFFF"
-alt="Devadath's GitHub Streak"
-/>
-
-</p><br/>📈 CONTRIBUTION GRAPH
-
-<p align="center"><img
-src="https://github-readme-activity-graph.vercel.app/graph?username=devadath006&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true"
-alt="Devadath's GitHub Contribution Graph"
-width="100%"
-/>
-
-</p><br/>💻 TOP LANGUAGES
-
-<p align="center"><img
-width="50%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadath006&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF"
-alt="Devadath's Top Languages"
-/>
-
-</p><br/>🐍 CONTRIBUTION SNAKE
-
-<p align="center"><img
-src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg"
-alt="Devadath's GitHub Contribution Snake"
-width="100%"
-/>
-
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=devadath006&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=FFFFFF" alt="Devadath's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=devadath006&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=FFFFFF&dates=FFFFFF" alt="Devadath's GitHub Streak" />
 </p>
+
+<br/>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadath006&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true" alt="Devadath's GitHub Contribution Graph" width="100%" />
+</p>
+
+<br/>
+
+### 💻 Top Languages
+
+<p align="center">
+  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devadath006&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=FFFFFF" alt="Devadath's Top Languages" />
+</p>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="Devadath's GitHub Contribution Snake" width="100%" />
+</p>
+
+</div>
