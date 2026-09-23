@@ -192,7 +192,6 @@ June 2026        🔧  Software Development Intern — SpeechLogix Technologies
     width="100%"
   />
 </p>
-
 <br/>
 
 ### 💻 Top Languages
@@ -204,4 +203,4 @@ June 2026        🔧  Software Development Intern — SpeechLogix Technologies
     alt="Devadath's Top Languages"
   />
 </p>
-### 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="Devadath's GitHub Contribution Snake" width="100%" /> </p>
+### 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg">
